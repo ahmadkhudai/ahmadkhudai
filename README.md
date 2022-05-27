@@ -1,8 +1,8 @@
-👋 Hi, I’m @ahmadkhudai
+👋 Hi, my name is Ahmad
 
 Mother Tongue: Typescript
 
-Other Langauges: English, Urdu, Javascript, Java, PHP, Dart (Only in Flutter)  
+Other Langauges (sorted by proficiency): English, Javascript, Urdu, Java, PHP  
 
 Backend: Node (TS, JS), PHP
 
